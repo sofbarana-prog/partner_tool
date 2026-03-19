@@ -26,6 +26,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install Playwright browser
+        run: |
+          python -m playwright install chromium
+
       - name: Generate calls.json
         run: |
           python make_calls_json.py
