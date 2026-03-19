@@ -1,0 +1,51 @@
+name: Update calls dataset
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-calls:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate calls.json
+        run: |
+          python make_calls_json.py
+
+      - name: Validate calls.json
+        run: |
+          python - <<'PY'
+          import json
+          with open("calls.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+          calls = data.get("calls", [])
+          if not calls:
+              raise SystemExit("calls.json is empty")
+          print("Validation OK:", len(calls), "calls")
+          PY
+
+      - name: Commit updated calls.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add calls.json
+          git diff --cached --quiet || git commit -m "Update calls.json"
+          git push
