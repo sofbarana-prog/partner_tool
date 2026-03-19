@@ -34,11 +34,17 @@ jobs:
         run: |
           python - <<'PY'
           import json
-          with open("calls.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
+          from pathlib import Path
+
+          p = Path("calls.json")
+          if not p.exists():
+              raise SystemExit("calls.json not found")
+
+          data = json.loads(p.read_text(encoding="utf-8"))
           calls = data.get("calls", [])
           if not calls:
               raise SystemExit("calls.json is empty")
+
           print("Validation OK:", len(calls), "calls")
           PY
 
