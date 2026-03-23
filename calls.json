@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-22T06:37:19.383334+00:00",
+  "generated": "2026-03-23T07:11:53.807604+00:00",
   "calls": [
     {
       "name": "Industrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership)",
@@ -603,19 +603,23 @@
     },
     {
       "name": "The effective use of artificial intelligence in learning environments in pre-primary and primary education",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL2-2027-01",
+      "programme": "Horizon Europe",
       "cluster_num": "2",
       "cluster_label": "Culture, Creativity & Inclusion",
       "thematic_cluster": "Culture, Creativity & Inclusion",
-      "action": "",
+      "action": "RIA",
       "opening": "13 May 2027",
       "opening_iso": "2027-05-13",
       "deadline": "23 September 2027",
       "deadline_iso": "2027-09-23",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-TRANSFO-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=1&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
     },
     {
       "name": "Impact of access to nature-positive environments in promoting social cohesion and reducing inequalities in urban and peri-urban settings",
@@ -880,19 +884,23 @@
     },
     {
       "name": "On-site robotic and automated techniques for building renovation and new construction",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL5-2027-05",
+      "programme": "Horizon Europe",
       "cluster_num": "5",
       "cluster_label": "Climate, Energy & Mobility",
       "thematic_cluster": "Climate, Energy & Mobility",
-      "action": "",
+      "action": "IA",
       "opening": "05 May 2027",
       "opening_iso": "2027-05-05",
       "deadline": "15 September 2027",
       "deadline_iso": "2027-09-15",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=1&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "SME",
+        "Large enterprise",
+        "Research organisation"
+      ]
     },
     {
       "name": "Thermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres",
@@ -1549,19 +1557,23 @@
     },
     {
       "name": "Governance, sustainable development and international politics of a future ice-free Arctic",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL6-2027-02",
+      "programme": "Horizon Europe",
       "cluster_num": "6",
       "cluster_label": "Food, Bioeconomy & Environment",
       "thematic_cluster": "Food, Bioeconomy & Environment",
-      "action": "",
+      "action": "RIA",
       "opening": "20 April 2027",
       "opening_iso": "2027-04-20",
       "deadline": "23 September 2027",
       "deadline_iso": "2027-09-23",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-CLIMATE-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=2&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
     },
     {
       "name": "Strengthening forest research for the support of Ukraine",
@@ -2341,19 +2353,23 @@
     },
     {
       "name": "Quantum Space Gravimetry topic",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL4-2027-03",
+      "programme": "Horizon Europe",
       "cluster_num": "4",
       "cluster_label": "Digital, Industry & Space",
       "thematic_cluster": "Digital, Industry & Space",
-      "action": "",
+      "action": "RIA",
       "opening": "09 March 2027",
       "opening_iso": "2027-03-09",
       "deadline": "02 September 2027",
       "deadline_iso": "2027-09-02",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-71?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=3&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
     },
     {
       "name": "Consolidation of the research infrastructure landscape – individual support for evolution, long-term sustainability and emerging needs of pan-European research infrastructures",
@@ -2889,19 +2905,23 @@
     },
     {
       "name": "Development of predictive biomarkers of disease progression and treatment response by using AI methodologies for chronic non-communicable diseases",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-HLTH-2027-02-two-stage",
+      "programme": "Horizon Europe",
       "cluster_num": "1",
       "cluster_label": "Health",
       "thematic_cluster": "Health & Life Sciences",
-      "action": "",
+      "action": "RIA",
       "opening": "10 February 2027",
       "opening_iso": "2027-02-10",
       "deadline": "13 April 2027",
       "deadline_iso": "2027-04-13",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-02-TOOL-01-two-stage?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=3&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
     },
     {
       "name": "Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change",
@@ -3742,19 +3762,24 @@
     },
     {
       "name": "Fostering generational renewal in agriculture via EU advisory network",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL6-2027-03",
+      "programme": "Horizon Europe",
       "cluster_num": "6",
       "cluster_label": "Food, Bioeconomy & Environment",
       "thematic_cluster": "Food, Bioeconomy & Environment",
-      "action": "",
+      "action": "CSA",
       "opening": "04 February 2027",
       "opening_iso": "2027-02-04",
       "deadline": "11 May 2027",
       "deadline_iso": "2027-05-11",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-03-GOVERNANCE-06?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=4&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "Public body",
+        "NGO",
+        "SME"
+      ]
     },
     {
       "name": "Open topic: Using the Circular Cities and Regions Initiative to strengthen urban manufacturing in support of the Clean Industrial Deal",
@@ -4616,19 +4641,23 @@
     },
     {
       "name": "Next generation scenarios for informing climate and sustainability transitions",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL5-2027-01",
+      "programme": "Horizon Europe",
       "cluster_num": "5",
       "cluster_label": "Climate, Energy & Mobility",
       "thematic_cluster": "Climate, Energy & Mobility",
-      "action": "",
+      "action": "RIA",
       "opening": "17 November 2026",
       "opening_iso": "2026-11-17",
       "deadline": "04 March 2027",
       "deadline_iso": "2027-03-04",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-01-D1-13?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=5&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
     },
     {
       "name": "Assessing the performance of policy instruments to inform climate change mitigation action",
@@ -5224,19 +5253,23 @@
     },
     {
       "name": "Improved system design for innovative PV applications (EUPI-PV Partnership)",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL5-2026-11",
+      "programme": "Horizon Europe",
       "cluster_num": "5",
       "cluster_label": "Climate, Energy & Mobility",
       "thematic_cluster": "Climate, Energy & Mobility",
-      "action": "",
+      "action": "IA",
       "opening": "04 August 2026",
       "opening_iso": "2026-08-04",
       "deadline": "01 December 2026",
       "deadline_iso": "2026-12-01",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-11-D3-14?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=6&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "SME",
+        "Large enterprise",
+        "Research organisation"
+      ]
     },
     {
       "name": "From lab to market: Strengthening the role of Technology Transfer Offices in bringing knowledge to the market",
@@ -5552,19 +5585,23 @@
     },
     {
       "name": "Fostering competences for the green transition",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL2-2026-01",
+      "programme": "Horizon Europe",
       "cluster_num": "2",
       "cluster_label": "Culture, Creativity & Inclusion",
       "thematic_cluster": "Culture, Creativity & Inclusion",
-      "action": "",
+      "action": "RIA",
       "opening": "12 May 2026",
       "opening_iso": "2026-05-12",
       "deadline": "23 September 2026",
       "deadline_iso": "2026-09-23",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-07?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=6&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
     },
     {
       "name": "“Artistic intelligence” : harnessing the power of the arts to address complex challenges, enhance soft skills and boost innovation and competitiveness",
@@ -5588,23 +5625,19 @@
     },
     {
       "name": "Boosting creative startups for disruptive innovation",
-      "call_id": "HORIZON-CL2-2026-01",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "2",
       "cluster_label": "Culture, Creativity & Inclusion",
       "thematic_cluster": "Culture, Creativity & Inclusion",
-      "action": "IA",
+      "action": "",
       "opening": "12 May 2026",
       "opening_iso": "2026-05-12",
       "deadline": "23 September 2026",
       "deadline_iso": "2026-09-23",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-02?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=6&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "SME",
-        "Large enterprise",
-        "Research organisation"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Fostering cooperation and integration between SSH and STEM research and innovation in the EU",
@@ -5789,19 +5822,23 @@
     },
     {
       "name": "Safeguarding linguistic diversity in Europe",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL2-2026-01",
+      "programme": "Horizon Europe",
       "cluster_num": "2",
       "cluster_label": "Culture, Creativity & Inclusion",
       "thematic_cluster": "Culture, Creativity & Inclusion",
-      "action": "",
+      "action": "RIA",
       "opening": "12 May 2026",
       "opening_iso": "2026-05-12",
       "deadline": "23 September 2026",
       "deadline_iso": "2026-09-23",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-06?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=6&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
     },
     {
       "name": "Digital and media literacy as drivers for democratic and civic resilience",
@@ -5947,19 +5984,23 @@
     },
     {
       "name": "Governing global commons sustainably",
-      "call_id": "",
-      "programme": "",
+      "call_id": "HORIZON-CL2-2026-01",
+      "programme": "Horizon Europe",
       "cluster_num": "2",
       "cluster_label": "Culture, Creativity & Inclusion",
       "thematic_cluster": "Culture, Creativity & Inclusion",
-      "action": "",
+      "action": "RIA",
       "opening": "12 May 2026",
       "opening_iso": "2026-05-12",
       "deadline": "23 September 2026",
       "deadline_iso": "2026-09-23",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-06?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=7&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": []
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
     },
     {
       "name": "AI integration in CCSI work practice: catalysing innovation and competitiveness",
@@ -5983,23 +6024,19 @@
     },
     {
       "name": "Prevention and mitigation of misuse of synthetic biology for bioterrorism purposes",
-      "call_id": "HORIZON-CL3-2026-01",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "3",
       "cluster_label": "Security & Resilience",
       "thematic_cluster": "Security & Resilience",
-      "action": "RIA",
+      "action": "",
       "opening": "06 May 2026",
       "opening_iso": "2026-05-06",
       "deadline": "05 November 2026",
       "deadline_iso": "2026-11-05",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-01-FCT-06?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=7&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Accessible and available travel facilitation",
@@ -6023,23 +6060,19 @@
     },
     {
       "name": "Designing new ways of risk awareness and enhanced disaster preparedness",
-      "call_id": "HORIZON-CL3-2026-01",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "3",
       "cluster_label": "Security & Resilience",
       "thematic_cluster": "Security & Resilience",
-      "action": "RIA",
+      "action": "",
       "opening": "06 May 2026",
       "opening_iso": "2026-05-06",
       "deadline": "05 November 2026",
       "deadline_iso": "2026-11-05",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-01-DRS-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=7&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Development of ecosystem and next-generation capabilities for a secured European Critical Communication System in civil security",
@@ -6788,12 +6821,12 @@
     },
     {
       "name": "EIC Transition Open",
-      "call_id": "HORIZON-EIC-2026-TRANSITIONOPEN",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "",
       "cluster_label": "",
       "thematic_cluster": "SME, Entrepreneurship & Market Uptake",
-      "action": "HORIZON EIC Grants",
+      "action": "",
       "opening": "22 April 2026",
       "opening_iso": "2026-04-22",
       "deadline": "16 September 2026",
@@ -7334,6 +7367,66 @@
       "beneficiary_hint": []
     },
     {
+      "name": "Demonstration of low power Ice Protection System technology",
+      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
+      "programme": "Horizon Europe",
+      "cluster_num": "",
+      "cluster_label": "",
+      "thematic_cluster": "Clean Aviation",
+      "action": "RIA",
+      "opening": "31 March 2026",
+      "opening_iso": "2026-03-31",
+      "deadline": "19 May 2026",
+      "deadline_iso": "2026-05-19",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
+    },
+    {
+      "name": "Hydrogen powered aircraft concepts and key technologies integration and impact assessment",
+      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
+      "programme": "Horizon Europe",
+      "cluster_num": "",
+      "cluster_label": "",
+      "thematic_cluster": "Clean Aviation",
+      "action": "IA",
+      "opening": "31 March 2026",
+      "opening_iso": "2026-03-31",
+      "deadline": "19 May 2026",
+      "deadline_iso": "2026-05-19",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-ACI-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "SME",
+        "Large enterprise",
+        "Research organisation"
+      ]
+    },
+    {
+      "name": "Demonstration and Validation of icing Certification Methodologies compatible with EIS2035 for the SMR and REG Aircraft",
+      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
+      "programme": "Horizon Europe",
+      "cluster_num": "",
+      "cluster_label": "",
+      "thematic_cluster": "Clean Aviation",
+      "action": "IA",
+      "opening": "31 March 2026",
+      "opening_iso": "2026-03-31",
+      "deadline": "19 May 2026",
+      "deadline_iso": "2026-05-19",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-TRA-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "SME",
+        "Large enterprise",
+        "Research organisation"
+      ]
+    },
+    {
       "name": "Operational stakeholders’ group to support the deployment of Clean Aviation aircraft concepts and technologies",
       "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
       "programme": "Horizon Europe",
@@ -7435,7 +7528,7 @@
       ]
     },
     {
-      "name": "Hydrogen powered aircraft concepts and key technologies integration and impact assessment",
+      "name": "Demonstration of advanced FC propulsion techno-bricks for a fully electric hydrogen fuel cell powered aircraft",
       "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
       "programme": "Horizon Europe",
       "cluster_num": "",
@@ -7446,7 +7539,7 @@
       "opening_iso": "2026-03-31",
       "deadline": "19 May 2026",
       "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-ACI-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-HPA-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
       "is_mission": false,
       "beneficiary_hint": [
         "SME",
@@ -7455,7 +7548,7 @@
       ]
     },
     {
-      "name": "Demonstration and Validation of icing Certification Methodologies compatible with EIS2035 for the SMR and REG Aircraft",
+      "name": "Demonstration of a hydrogen distribution system for a direct hydrogen combustion propulsion aircraft",
       "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
       "programme": "Horizon Europe",
       "cluster_num": "",
@@ -7466,12 +7559,112 @@
       "opening_iso": "2026-03-31",
       "deadline": "19 May 2026",
       "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-TRA-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-HPA-04?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
       "is_mission": false,
       "beneficiary_hint": [
         "SME",
         "Large enterprise",
         "Research organisation"
+      ]
+    },
+    {
+      "name": "Demonstration of Advanced Low NOx H2C Propulsion System for a direct hydrogen combustion aircraft",
+      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
+      "programme": "Horizon Europe",
+      "cluster_num": "",
+      "cluster_label": "",
+      "thematic_cluster": "Clean Aviation",
+      "action": "IA",
+      "opening": "31 March 2026",
+      "opening_iso": "2026-03-31",
+      "deadline": "19 May 2026",
+      "deadline_iso": "2026-05-19",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-HPA-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "SME",
+        "Large enterprise",
+        "Research organisation"
+      ]
+    },
+    {
+      "name": "Advanced noise-reducing technologies for propulsion systems of next generation Ultra-efficient SMR aircraft",
+      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
+      "programme": "Horizon Europe",
+      "cluster_num": "",
+      "cluster_label": "",
+      "thematic_cluster": "Clean Aviation",
+      "action": "RIA",
+      "opening": "31 March 2026",
+      "opening_iso": "2026-03-31",
+      "deadline": "19 May 2026",
+      "deadline_iso": "2026-05-19",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
+    },
+    {
+      "name": "Cryo-cooled power electronics for a fully electric hydrogen fuel cell powered aircraft",
+      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
+      "programme": "Horizon Europe",
+      "cluster_num": "",
+      "cluster_label": "",
+      "thematic_cluster": "Clean Aviation",
+      "action": "RIA",
+      "opening": "31 March 2026",
+      "opening_iso": "2026-03-31",
+      "deadline": "19 May 2026",
+      "deadline_iso": "2026-05-19",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
+    },
+    {
+      "name": "Demonstration of cabin acoustic optimization technology",
+      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
+      "programme": "Horizon Europe",
+      "cluster_num": "",
+      "cluster_label": "",
+      "thematic_cluster": "Clean Aviation",
+      "action": "RIA",
+      "opening": "31 March 2026",
+      "opening_iso": "2026-03-31",
+      "deadline": "19 May 2026",
+      "deadline_iso": "2026-05-19",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-02?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
+      ]
+    },
+    {
+      "name": "Innovative light weight and reliable liquid hydrogen tank",
+      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
+      "programme": "Horizon Europe",
+      "cluster_num": "",
+      "cluster_label": "",
+      "thematic_cluster": "Clean Aviation",
+      "action": "RIA",
+      "opening": "31 March 2026",
+      "opening_iso": "2026-03-31",
+      "deadline": "19 May 2026",
+      "deadline_iso": "2026-05-19",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-07?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "Research organisation",
+        "SME",
+        "Large enterprise"
       ]
     },
     {
@@ -7515,146 +7708,6 @@
       ]
     },
     {
-      "name": "Demonstration of advanced FC propulsion techno-bricks for a fully electric hydrogen fuel cell powered aircraft",
-      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
-      "programme": "Horizon Europe",
-      "cluster_num": "",
-      "cluster_label": "",
-      "thematic_cluster": "Clean Aviation",
-      "action": "IA",
-      "opening": "31 March 2026",
-      "opening_iso": "2026-03-31",
-      "deadline": "19 May 2026",
-      "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-HPA-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "SME",
-        "Large enterprise",
-        "Research organisation"
-      ]
-    },
-    {
-      "name": "Demonstration of a hydrogen distribution system for a direct hydrogen combustion propulsion aircraft",
-      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
-      "programme": "Horizon Europe",
-      "cluster_num": "",
-      "cluster_label": "",
-      "thematic_cluster": "Clean Aviation",
-      "action": "IA",
-      "opening": "31 March 2026",
-      "opening_iso": "2026-03-31",
-      "deadline": "19 May 2026",
-      "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-HPA-04?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "SME",
-        "Large enterprise",
-        "Research organisation"
-      ]
-    },
-    {
-      "name": "Demonstration of low power Ice Protection System technology",
-      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
-      "programme": "Horizon Europe",
-      "cluster_num": "",
-      "cluster_label": "",
-      "thematic_cluster": "Clean Aviation",
-      "action": "RIA",
-      "opening": "31 March 2026",
-      "opening_iso": "2026-03-31",
-      "deadline": "19 May 2026",
-      "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
-    },
-    {
-      "name": "Demonstration of Advanced Low NOx H2C Propulsion System for a direct hydrogen combustion aircraft",
-      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
-      "programme": "Horizon Europe",
-      "cluster_num": "",
-      "cluster_label": "",
-      "thematic_cluster": "Clean Aviation",
-      "action": "IA",
-      "opening": "31 March 2026",
-      "opening_iso": "2026-03-31",
-      "deadline": "19 May 2026",
-      "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-HPA-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "SME",
-        "Large enterprise",
-        "Research organisation"
-      ]
-    },
-    {
-      "name": "Cryo-cooled power electronics for a fully electric hydrogen fuel cell powered aircraft",
-      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
-      "programme": "Horizon Europe",
-      "cluster_num": "",
-      "cluster_label": "",
-      "thematic_cluster": "Clean Aviation",
-      "action": "RIA",
-      "opening": "31 March 2026",
-      "opening_iso": "2026-03-31",
-      "deadline": "19 May 2026",
-      "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
-    },
-    {
-      "name": "Innovative light weight and reliable liquid hydrogen tank",
-      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
-      "programme": "Horizon Europe",
-      "cluster_num": "",
-      "cluster_label": "",
-      "thematic_cluster": "Clean Aviation",
-      "action": "RIA",
-      "opening": "31 March 2026",
-      "opening_iso": "2026-03-31",
-      "deadline": "19 May 2026",
-      "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-07?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
-    },
-    {
-      "name": "Demonstration of cabin acoustic optimization technology",
-      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
-      "programme": "Horizon Europe",
-      "cluster_num": "",
-      "cluster_label": "",
-      "thematic_cluster": "Clean Aviation",
-      "action": "RIA",
-      "opening": "31 March 2026",
-      "opening_iso": "2026-03-31",
-      "deadline": "19 May 2026",
-      "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-02?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
-    },
-    {
       "name": "Demonstration of an Optimized System Platform for Ultra-efficient SMR Aircraft",
       "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
       "programme": "Horizon Europe",
@@ -7667,67 +7720,6 @@
       "deadline": "19 May 2026",
       "deadline_iso": "2026-05-19",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-SMR-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "SME",
-        "Large enterprise",
-        "Research organisation"
-      ]
-    },
-    {
-      "name": "Advanced noise-reducing technologies for propulsion systems of next generation Ultra-efficient SMR aircraft",
-      "call_id": "HORIZON-JU-Clean-Aviation-2026-01",
-      "programme": "Horizon Europe",
-      "cluster_num": "",
-      "cluster_label": "",
-      "thematic_cluster": "Clean Aviation",
-      "action": "RIA",
-      "opening": "31 March 2026",
-      "opening_iso": "2026-03-31",
-      "deadline": "19 May 2026",
-      "deadline_iso": "2026-05-19",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
-    },
-    {
-      "name": "Strengthening a European user facility for nuclear research",
-      "call_id": "HORIZON-EURATOM-2026-01",
-      "programme": "Euratom",
-      "cluster_num": "5",
-      "cluster_label": "Climate, Energy and Mobility",
-      "thematic_cluster": "Climate, Energy & Mobility",
-      "action": "CSA",
-      "opening": "24 March 2026",
-      "opening_iso": "2026-03-24",
-      "deadline": "15 September 2026",
-      "deadline_iso": "2026-09-15",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-04?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "Public body",
-        "NGO",
-        "SME"
-      ]
-    },
-    {
-      "name": "Towards a European production of stable isotopes for novel nuclear medicine therapies (SAMIRA/ERVI)",
-      "call_id": "HORIZON-EURATOM-2026-01",
-      "programme": "Euratom",
-      "cluster_num": "5",
-      "cluster_label": "Climate, Energy and Mobility",
-      "thematic_cluster": "Climate, Energy & Mobility",
-      "action": "IA",
-      "opening": "24 March 2026",
-      "opening_iso": "2026-03-24",
-      "deadline": "15 September 2026",
-      "deadline_iso": "2026-09-15",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
       "is_mission": false,
       "beneficiary_hint": [
         "SME",
@@ -7794,26 +7786,6 @@
       "beneficiary_hint": []
     },
     {
-      "name": "Safety of SMRs, advanced and innovative nuclear reactors and fuels",
-      "call_id": "HORIZON-EURATOM-2026-01",
-      "programme": "Euratom",
-      "cluster_num": "5",
-      "cluster_label": "Climate, Energy and Mobility",
-      "thematic_cluster": "Climate, Energy & Mobility",
-      "action": "IA",
-      "opening": "24 March 2026",
-      "opening_iso": "2026-03-24",
-      "deadline": "15 September 2026",
-      "deadline_iso": "2026-09-15",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-02?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
-      "is_mission": false,
-      "beneficiary_hint": [
-        "SME",
-        "Large enterprise",
-        "Research organisation"
-      ]
-    },
-    {
       "name": "European Partnership for research in radiation protection and detection of ionising radiation",
       "call_id": "HORIZON-EURATOM-2026-01",
       "programme": "Euratom",
@@ -7847,6 +7819,67 @@
         "Research organisation",
         "SME",
         "Large enterprise"
+      ]
+    },
+    {
+      "name": "Safety of SMRs, advanced and innovative nuclear reactors and fuels",
+      "call_id": "HORIZON-EURATOM-2026-01",
+      "programme": "Euratom",
+      "cluster_num": "5",
+      "cluster_label": "Climate, Energy and Mobility",
+      "thematic_cluster": "Climate, Energy & Mobility",
+      "action": "IA",
+      "opening": "24 March 2026",
+      "opening_iso": "2026-03-24",
+      "deadline": "15 September 2026",
+      "deadline_iso": "2026-09-15",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-02?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "SME",
+        "Large enterprise",
+        "Research organisation"
+      ]
+    },
+    {
+      "name": "Strengthening a European user facility for nuclear research",
+      "call_id": "HORIZON-EURATOM-2026-01",
+      "programme": "Euratom",
+      "cluster_num": "5",
+      "cluster_label": "Climate, Energy and Mobility",
+      "thematic_cluster": "Climate, Energy & Mobility",
+      "action": "CSA",
+      "opening": "24 March 2026",
+      "opening_iso": "2026-03-24",
+      "deadline": "15 September 2026",
+      "deadline_iso": "2026-09-15",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-04?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "Research organisation",
+        "Public body",
+        "NGO",
+        "SME"
+      ]
+    },
+    {
+      "name": "Towards a European production of stable isotopes for novel nuclear medicine therapies (SAMIRA/ERVI)",
+      "call_id": "HORIZON-EURATOM-2026-01",
+      "programme": "Euratom",
+      "cluster_num": "5",
+      "cluster_label": "Climate, Energy and Mobility",
+      "thematic_cluster": "Climate, Energy & Mobility",
+      "action": "IA",
+      "opening": "24 March 2026",
+      "opening_iso": "2026-03-24",
+      "deadline": "15 September 2026",
+      "deadline_iso": "2026-09-15",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate",
+      "is_mission": false,
+      "beneficiary_hint": [
+        "SME",
+        "Large enterprise",
+        "Research organisation"
       ]
     },
     {
@@ -8051,12 +8084,12 @@
     },
     {
       "name": "Equipment for smart European cable systems - Works",
-      "call_id": "",
-      "programme": "",
+      "call_id": "CEF-DIG-2026-SMART-CABLES",
+      "programme": "Connecting Europe Facility (CEF)",
       "cluster_num": "",
       "cluster_label": "",
-      "thematic_cluster": "",
-      "action": "",
+      "thematic_cluster": "Climate, Energy & Mobility",
+      "action": "CEF Infrastructure Projects",
       "opening": "17 March 2026",
       "opening_iso": "2026-03-17",
       "deadline": "30 June 2026",
@@ -10281,12 +10314,12 @@
     },
     {
       "name": "Non-thematic development actions by SMEs",
-      "call_id": "",
-      "programme": "",
+      "call_id": "EDF-2026-LS-DA-SME",
+      "programme": "European Defence Fund",
       "cluster_num": "",
       "cluster_label": "",
-      "thematic_cluster": "",
-      "action": "",
+      "thematic_cluster": "Defence",
+      "action": "EDF Lump Sum Grants",
       "opening": "11 February 2026",
       "opening_iso": "2026-02-11",
       "deadline": "29 September 2026",
@@ -10377,11 +10410,11 @@
     },
     {
       "name": "MANUFACTergy FACTORY CHECK-IN - Open Call",
-      "call_id": "SMP-COSME-2024-CLUSTER-01",
-      "programme": "Single Market Programme (SMP)",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "",
       "cluster_label": "",
-      "thematic_cluster": "SME, Entrepreneurship & Market Uptake",
+      "thematic_cluster": "",
       "action": "",
       "opening": "10 February 2026",
       "opening_iso": "2026-02-10",
@@ -10590,23 +10623,19 @@
     },
     {
       "name": "Development of novel vaccines for viral pathogens with epidemic potential",
-      "call_id": "HORIZON-HLTH-2026-01",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "1",
       "cluster_label": "Health",
       "thematic_cluster": "Health & Life Sciences",
-      "action": "RIA",
+      "action": "",
       "opening": "10 February 2026",
       "opening_iso": "2026-02-10",
       "deadline": "16 April 2026",
       "deadline_iso": "2026-04-16",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-01-DISEASE-04?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Towards climate resilient, prepared and carbon neutral populations and healthcare systems",
@@ -11308,23 +11337,19 @@
     },
     {
       "name": "Boosting mental health of young cancer survivors through the European Cancer Patient Digital Centre (ECPDC)",
-      "call_id": "HORIZON-MISS-2026-02",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "1",
       "cluster_label": "Health",
       "thematic_cluster": "Health & Life Sciences",
-      "action": "IA",
+      "action": "",
       "opening": "10 February 2026",
       "opening_iso": "2026-02-10",
       "deadline": "15 September 2026",
       "deadline_iso": "2026-09-15",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate",
       "is_mission": true,
-      "beneficiary_hint": [
-        "SME",
-        "Large enterprise",
-        "Research organisation"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Development of a research capacity building programme on cancer with and for Ukraine",
@@ -13649,23 +13674,19 @@
     },
     {
       "name": "Boosting plant health and reducing losses on farm and during storage for sustainable growth in Africa (FNSSA)",
-      "call_id": "HORIZON-CL6-2026-02",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "6",
       "cluster_label": "Food, Bioeconomy & Environment",
       "thematic_cluster": "Food, Bioeconomy & Environment",
-      "action": "RIA",
+      "action": "",
       "opening": "14 January 2026",
       "opening_iso": "2026-01-14",
       "deadline": "14 April 2026",
       "deadline_iso": "2026-04-14",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-02-FARM2FORK-13?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Advanced innovative solutions for improved competitiveness and sustainability in controlled environment agriculture (CEA)",
@@ -13929,105 +13950,83 @@
     },
     {
       "name": "Sustainable and healthy diets based on health status and socio-economic risk factors of ageing population",
-      "call_id": "HORIZON-CL6-2026-02",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "6",
       "cluster_label": "Food, Bioeconomy & Environment",
       "thematic_cluster": "Food, Bioeconomy & Environment",
-      "action": "CSA",
+      "action": "",
       "opening": "14 January 2026",
       "opening_iso": "2026-01-14",
       "deadline": "14 April 2026",
       "deadline_iso": "2026-04-14",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-02-FARM2FORK-10?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "Public body",
-        "NGO",
-        "SME"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Green Transition Food Processing Africa",
-      "call_id": "HORIZON-CL6-2026-02",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "6",
       "cluster_label": "Food, Bioeconomy & Environment",
       "thematic_cluster": "Food, Bioeconomy & Environment",
-      "action": "RIA",
+      "action": "",
       "opening": "14 January 2026",
       "opening_iso": "2026-01-14",
       "deadline": "14 April 2026",
       "deadline_iso": "2026-04-14",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-02-FARM2FORK-14?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Accelerating the development of breeding tools for perennial crops, specifically fruits and nuts",
-      "call_id": "HORIZON-CL6-2026-02",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "6",
       "cluster_label": "Food, Bioeconomy & Environment",
       "thematic_cluster": "Food, Bioeconomy & Environment",
-      "action": "RIA",
+      "action": "",
       "opening": "14 January 2026",
       "opening_iso": "2026-01-14",
       "deadline": "14 April 2026",
       "deadline_iso": "2026-04-14",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-02-FARM2FORK-04?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Towards the water infrastructures of the future",
-      "call_id": "HORIZON-CL6-2026-02",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "6",
       "cluster_label": "Food, Bioeconomy & Environment",
       "thematic_cluster": "Food, Bioeconomy & Environment",
-      "action": "RIA",
+      "action": "",
       "opening": "14 January 2026",
       "opening_iso": "2026-01-14",
       "deadline": "14 April 2026",
       "deadline_iso": "2026-04-14",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-02-CLIMATE-02?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "SME",
-        "Large enterprise"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Increasing knowledge flows to practice within AKIS via EU thematic knowledge hubs",
-      "call_id": "HORIZON-CL6-2026-03",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "6",
       "cluster_label": "Food, Bioeconomy & Environment",
       "thematic_cluster": "Food, Bioeconomy & Environment",
-      "action": "CSA",
+      "action": "",
       "opening": "14 January 2026",
       "opening_iso": "2026-01-14",
       "deadline": "15 April 2026",
       "deadline_iso": "2026-04-15",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-03-GOVERNANCE-09?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "Public body",
-        "NGO",
-        "SME"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Hop-On Facility",
@@ -14320,24 +14319,19 @@
     },
     {
       "name": "Enhancing industry-academia knowledge exchange in Social Sciences and Humanities (SSH) (CSA)",
-      "call_id": "HORIZON-CL4-2026-01",
-      "programme": "Horizon Europe",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "4",
       "cluster_label": "Digital, Industry & Space",
       "thematic_cluster": "Digital, Industry & Space",
-      "action": "CSA",
+      "action": "",
       "opening": "06 January 2026",
       "opening_iso": "2026-01-06",
       "deadline": "21 April 2026",
       "deadline_iso": "2026-04-21",
       "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-01-MAT-PROD-41?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=16&pageSize=50&sortBy=startDate",
       "is_mission": false,
-      "beneficiary_hint": [
-        "Research organisation",
-        "Public body",
-        "NGO",
-        "SME"
-      ]
+      "beneficiary_hint": []
     },
     {
       "name": "Technologies for innovative extraction of critical raw materials (RIA)",
@@ -14551,12 +14545,12 @@
     },
     {
       "name": "Adult Education: Motivation in Motion: Empowering Adults to Up- and Reskilling",
-      "call_id": "ERASMUS-EDU-2026-POL-EXP",
-      "programme": "Erasmus+",
+      "call_id": "",
+      "programme": "",
       "cluster_num": "",
       "cluster_label": "",
-      "thematic_cluster": "Culture, Creativity & Inclusion",
-      "action": "ERASMUS Lump Sum Grants",
+      "thematic_cluster": "",
+      "action": "",
       "opening": "06 January 2026",
       "opening_iso": "2026-01-06",
       "deadline": "08 April 2026",
@@ -14615,12 +14609,12 @@
     },
     {
       "name": "Digital Education: Public-private partnerships for ethical design, development and use of Artificial Intelligence tools in education and training",
-      "call_id": "",
-      "programme": "",
+      "call_id": "ERASMUS-EDU-2026-POL-EXP",
+      "programme": "Erasmus+",
       "cluster_num": "4",
       "cluster_label": "Digital, Industry and Space",
       "thematic_cluster": "Digital, Industry & Space",
-      "action": "",
+      "action": "ERASMUS Lump Sum Grants",
       "opening": "06 January 2026",
       "opening_iso": "2026-01-06",
       "deadline": "08 April 2026",
@@ -17032,11 +17026,11 @@
     },
     {
       "name": "UPC-MERIT Scholarship for master’s in Machine Learning and Cybersecurity for Internet Connected Systems Open Call 2025",
-      "call_id": "",
-      "programme": "",
+      "call_id": "DIGITAL-2021-SKILLS-01-SPECIALISED",
+      "programme": "Digital Europe Programme",
       "cluster_num": "",
       "cluster_label": "",
-      "thematic_cluster": "",
+      "thematic_cluster": "Digital, Industry & Space",
       "action": "",
       "opening": "09 April 2025",
       "opening_iso": "2025-04-09",
