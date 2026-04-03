@@ -1,254 +1,258 @@
 # Changelog calls.json
 
-**Ultimo aggiornamento:** 2026-04-02 07:13:55.62
+**Ultimo aggiornamento:** 2026-04-03 07:13:46.51
 
 ## Riepilogo
 
 | | Numero |
 |---|---|
-| Call totali (nuovo) | 942 |
-| Call totali (precedente) | 939 |
+| Call totali (nuovo) | 943 |
+| Call totali (precedente) | 942 |
 | **Nuove call aggiunte** | **41** |
-| Call rimosse (scadute/chiuse) | 38 |
+| Call rimosse (scadute/chiuse) | 40 |
 
 ## Call aggiunte (41)
 
 ### (non classificato) (9)
 
-- **Support for the Management of Marine Protected Areas in Gabon**
-  Scadenza: 30 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/185516PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate
+- **Blue Economy and Green Sustainability**
+  Scadenza: 07 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/184458PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
 
-- **Civil Society, Media, Human Rights and Democracy programmes for Bosnia and Herzegovina 2025-2026**
-  Scadenza: 20 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/185979PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
+- **Thematic Programme on Human Rights and Democracy Montenegro 2025**
+  Scadenza: 08 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/185546PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
 
-- **Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&D)**
-  Scadenza: 04 June 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186081PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
-
-- **Advancing Accountable Governance and Participatory Democracy in Thailand (2026)**
+- **Support to justice, freedom of expression and social cohesion in Syria**
   Scadenza: 18 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186111PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/185831PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
 
-- **Malaysia - Civil Society Organisations: Enhancing CSOs' Contribution to Governance and Development Processes (2026)**
+- **Appui à une société civile congolaise forte et inclusive pour la gouvernance démocratique, la redevabilité et le développement durable**
+  Scadenza: 20 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186040PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
+
+- **Support to Civil Society in Kazakhstan**
+  Scadenza: 12 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186114PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
+
+- **Prévention contre les violences basée sur le genre (VBG) et autonomisation économique des femmes**
+  Scadenza: 23 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186131PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
+
+- **Support to Media Organisations in Kosovo**
   Scadenza: 18 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186170PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186347PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
 
-- **Organisation of high-quality master or post-graduate courses in conference interpreting 2026-2027**
-  43697167 · EP Project Grants · Scadenza: 07 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EP-LINC-SUBV-2026-CONF-INT-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
+- **Support Scheme Support to Civil Society Organisations in Kosovo in the field of Diversity, Equality and Inclusion, Gender Equality and Gender-Based Violence Access to Justice**
+  Scadenza: 18 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186350PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
 
-- **Supporting excellence, cooperation or research in conference interpreting training 2026-2027**
-  43697167 · EP Project Grants · Scadenza: 07 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EP-LINC-SUBV-2026-CONF-INT-02?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
+- **NDICI HR: "Derechos Humanos en el Sector de la Minería en Bolivia"**
+  Scadenza: 19 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/prospect-details/186382PROSPECTSEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
 
-- **Organisation of high-quality master, post-graduate or bachelor courses offering conference interpreter training in Ukrainian, Montenegrin, and Albanian (2026-2027)**
-  43697167 · EP Project Grants · Scadenza: 07 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EP-LINC-SUBV-2026-CONF-INT-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
+### Climate, Energy & Mobility (10)
 
-- **Supporting sustainable competitiveness of tourism SME**
-  Scadenza: 20 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/SMP-COSME-2026-TOURSME-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
+- **FuseNet Support of Master Students in attending Educational Events**
+  Euratom · Scadenza: 31 December 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13326?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
 
-### Climate, Energy & Mobility (3)
+- **FuseNet Support of Master Students going on an internship abroad**
+  Euratom · Scadenza: 31 December 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13327?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
 
-- **ODEON Open Call**
-  Horizon Europe · Scadenza: 09 July 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13462?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=8&pageSize=50&sortBy=startDate
+- **FuseNet Call for the Organisation of Mini-Workshops in Fusion**
+  Euratom · Scadenza: 31 December 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13328?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
 
-- **SNS experimental infrastructure**
-  Horizon Europe · RIA · Scadenza: 29 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-STREAM-C-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate
+- **Submarine Cable Repair Capacities – Pilot Works**
+  Connecting Europe Facility (CEF) · CEF Infrastructure Projects · Scadenza: 06 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CEF-DIG-2026-CABLE-REPAIR-CAPACITIES-PILOT-WORKS?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
 
-- **RFCS-2026-Steel-Big Tickets under the Steel and Metals Action Plan**
+- **European Nuclear Skills Initiative – towards European Nuclear Skills Academy**
+  Euratom · CSA · Scadenza: 15 September 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-NRT-01-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
+
+- **Sustainable hydrogen production from renewable gases and biogenic waste sources through innovative modular reactor design, process intensification and integration**
+  Horizon Europe · RIA · Scadenza: 15 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEANH2-2026-01-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
+
+- **Large-scale Hydrogen Valley**
+  Horizon Europe · IA · Scadenza: 15 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CLEANH2-2026-06-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
+
+- **EU-India International Collaboration**
+  Horizon Europe · CSA · Scadenza: 29 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-STREAM-CSA-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate
+
+- **RFCS-2026-Big Tickets-Coal**
   RFCS · RFCS Project Grants · Scadenza: 06 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Steel-SMAP?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Coal?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
 
-### Cross-cutting / Other (1)
+- **RFCS-2026-Steel-Big Tickets under the Clean Industrial Deal**
+  RFCS · RFCS Project Grants · Scadenza: 06 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Steel-CID?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
 
-- **InnoMatch project - Open call 2 for EIC Awardees**
-  Horizon Europe · Scadenza: 17 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13321?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
+### Cross-cutting / Other (2)
 
-### Culture, Creativity & Inclusion (7)
+- **PERIFORMANCE OPEN CALL FOR BOTTOM-UP STAKEHOLDER ENGAGEMENT INITIATIVES IN CANCER RESEARCH & CARE**
+  Horizon Europe · Scadenza: 31 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13603?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
 
-- **Call for proposal for support to Slovenian and Croatian SCOs to “Go out and vote!” campaigns**
-  CERV · Scadenza: 01 January 2028
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/11674?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=19&pageSize=50&sortBy=startDate
+- **Ignite NEB Open call for hosts**
+  Horizon Europe · Scadenza: 07 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13621?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
 
-- **Call for CSOs initiatives “Code Success” Fund**
-  CERV · Scadenza: 20 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13324?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=12&pageSize=50&sortBy=startDate
+### Culture, Creativity & Inclusion (2)
 
-- **Call for proposals 2 in the Stronger Roots program - Matching grant for crowdfunding campaign**
-  CERV · Scadenza: 20 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13585?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
+- **ReAction – Rapid Response Grants**
+  CERV · Scadenza: 31 March 2028
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/11702?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=19&pageSize=50&sortBy=startDate
 
-- **European Cooperation Projects Small Scale**
+- **European Cooperation Projects Medium Scale**
   Creative Europe (CREA) · CREA Lump Sum Grants · Scadenza: 05 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2026-COOP-1?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2026-COOP-2?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
 
-- **Networks of European Cinemas**
-  Creative Europe (CREA) · CREA Project Grants · Scadenza: 09 July 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2026-CINNET?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
+### Defence (3)
 
-- **Skills and Talent Development**
-  Creative Europe (CREA) · CREA Lump Sum Grants · Scadenza: 16 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2026-TRAINING?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=18&pageSize=50&sortBy=startDate
+- **High-end endo-atmospheric interception**
+  European Defence Fund · EDF Development Actions · Scadenza: 29 September 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-2026-DA-ACC-AIRDEF-EATMI?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
 
-- **Centres of Vocational Excellence**
-  Erasmus+ · ERASMUS Lump Sum Grants · Scadenza: 03 September 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=18&pageSize=50&sortBy=startDate
+- **New turbofan engine**
+  European Defence Fund · EDF Lump Sum Grants · Scadenza: 29 September 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-2026-LS-RA-SI-ENERENV-NTFE?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
 
-### Digital, Industry & Space (14)
+- **Layered critical seabed infrastructure protection**
+  European Defence Fund · EDF Lump Sum Grants · Scadenza: 29 September 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-2026-RA-SI-UWW-CSBI-STEP?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
 
-- **Open Call: Textile and clothing industry organisations in Athens and Rotterdam**
-  Horizon Europe · Scadenza: 03 November 2025
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/11671?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=19&pageSize=50&sortBy=startDate
+### Digital, Industry & Space (9)
 
-- **Phortify Master Programme Scholarships - Pilot Call**
-  Digital Europe Programme · Scadenza: 03 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/12882?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
+- **RTU MERIT Project Mobility Scholarship 2026 Spring**
+  Digital Europe Programme · Scadenza: 11 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13221?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
 
-- **Phortify Grants for Mentorship workshop on career growth and professional development - Pilot Call**
-  Digital Europe Programme · Scadenza: 31 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/12903?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
+- **Phortify Grants for the Be Part of Phortify program directed to women - Pilot Call**
+  Digital Europe Programme · Scadenza: 19 May 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13322?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
 
-- **ROB4GREEN Open Call #1**
-  Horizon Europe · Scadenza: 08 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13206?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
+- **NGI TALER open call (2026-06T)**
+  Horizon Europe · Scadenza: 01 June 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13722?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
 
-- **COP-PILOT Open Call 1**
-  Horizon Europe · Scadenza: 04 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13303?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
+- **AI4CI - Fee waivers for Ulm University**
+  Digital Europe Programme · Scadenza: 15 June 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13782?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
 
-- **LLM-BRIDGE – Venture Incubation Programme - Open Call for Start-ups – 1st Call**
-  Digital Europe Programme · Scadenza: 01 June 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13681?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
-
-- **National Cyber Hubs**
+- **Cross-Border Cyber Hubs**
   Digital Europe Programme · DIGITAL JU Simple Grants · Scadenza: 28 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-NCH?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=18&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=18&pageSize=50&sortBy=startDate
 
-- **Circular innovative advanced materials: facilitating the transition from design to markets (RIA) (Innovative Advanced Materials for the EU and Made in Europe partnerships)**
+- **Innovative technologies and tools for exploration and data modelling of raw materials (RIA)**
   Horizon Europe · RIA · Scadenza: 21 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-01-MAT-PROD-05?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=17&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-01-MAT-PROD-11?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=17&pageSize=50&sortBy=startDate
 
-- **Monitoring of secondary raw materials (CSA)**
-  Horizon Europe · CSA · Scadenza: 21 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-01-MAT-PROD-13?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=17&pageSize=50&sortBy=startDate
-
-- **Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA)**
-  Horizon Europe · CSA · Scadenza: 21 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-01-MAT-PROD-45?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=17&pageSize=50&sortBy=startDate
-
-- **Standards for Quantum Technologies – Coordination and Support Action (CSA)**
+- **Open Internet Stack Support for Scale (CSA)**
   Horizon Europe · CSA · Scadenza: 15 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-04-DIGITAL-EMERGING-12?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=16&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-04-DATA-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=16&pageSize=50&sortBy=startDate
 
-- **Apply AI: Next-Generation Agile and Intelligent Robotics Platforms for Industrial and Service Applications (Partnership in AI, Data and Robotics) (RIA)**
-  Horizon Europe · RIA · Scadenza: 15 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-05-DIGITAL-EMERGING-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=16&pageSize=50&sortBy=startDate
+- **Setting up of Cross-Border Coordination Points**
+  PPPA · PPPA Project Grants · Scadenza: 09 June 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-BRIDGEFOREU2?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
 
-- **New or enhanced Innovative Advanced Materials (IAM) enabled sensing functionality (RIA)**
-  Horizon Europe · RIA · Scadenza: 15 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-05-MAT-PROD-25?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=16&pageSize=50&sortBy=startDate
-
-- **PPPA-2026-Game-Changing Innovation for European Launch Solutions**
-  PPPA · PPPA Project Grants · Scadenza: 29 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-LAUNCHERS-GAMECHANGING?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=15&pageSize=50&sortBy=startDate
+- **Chips Diplomacy Support Initiative**
+  PPPA · PPPA Project Grants · Scadenza: 30 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-CHIPS-DSI?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=10&pageSize=50&sortBy=startDate
 
 ### Food, Bioeconomy & Environment (1)
 
-- **Restoration of ecosystem functioning, integrity and connectivity**
-  Horizon Europe · Scadenza: 14 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/11666?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=19&pageSize=50&sortBy=startDate
+- **Open Call for Financial Support to Third parties as a mechanism to test, promote, validate, replicate PRIMARY business model blueprints and develop new value chains**
+  Horizon Europe · Scadenza: 08 June 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13402?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
 
-### Health & Life Sciences (4)
+### Health & Life Sciences (2)
 
-- **Public procurement of innovative solutions for improving citizens' access to healthcare through integrated or personalised approaches**
-  Horizon Europe · HORIZON Public Procurement of Innovative Solutions · Scadenza: 16 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-01-CARE-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
-
-- **Identifying and addressing low-value care in health and care systems**
+- **Innovative interventions to prevent the harmful effects of using digital technologies on the mental health of children and young adults**
   Horizon Europe · RIA · Scadenza: 16 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-01-CARE-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-01-DISEASE-02?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
 
-- **Towards a better understanding and anticipation of the impacts of climate change on health**
+- **Advancing research on the prevention, diagnosis, and management of post-infection long-term conditions**
   Horizon Europe · RIA · Scadenza: 16 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-01-ENVHLTH-01?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-01-DISEASE-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
 
-- **Regulatory science to support translational development of patient-centred health technologies**
-  Horizon Europe · RIA · Scadenza: 16 April 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-01-IND-03?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
+### SME, Entrepreneurship & Market Uptake (3)
 
-### SME, Entrepreneurship & Market Uptake (2)
+- **MANUFACTergy FACTORY CHECK-IN - Open Call**
+  Single Market Programme (SMP) · Scadenza: 17 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13241?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=13&pageSize=50&sortBy=startDate
 
-- **Net Zero Technology - Demo Projects Open Call #1**
+- **Call for Financial Support for SMEs under DETOUR project**
   Single Market Programme (SMP) · Scadenza: 01 June 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13742?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=9&pageSize=50&sortBy=startDate
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/13442?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=11&pageSize=50&sortBy=startDate
 
-- **EIC 2026 Pathfinder Open**
-  Horizon Europe · HORIZON EIC Grants · Scadenza: 12 May 2026
-  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDEROPEN?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
+- **Erasmus for Young Entrepreneurs**
+  Single Market Programme (SMP) · SMP Grants for Financial Support · Scadenza: 21 April 2026
+  https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/SMP-COSME-2026-EYE?isExactMatch=true&status=31094501,31094502&programmePeriod=2021%20-%202027&order=DESC&pageNumber=14&pageSize=50&sortBy=startDate
 
-## Call rimosse (38)
+## Call rimosse (40)
 
-- **Restoration of ecosystem functioning, integrity and connectivity** — Horizon Europe · Scadenza: 14 April 2026
-- **Open Call: Textile and clothing industry organisations in Athens and Rotterdam** — Horizon Europe · Scadenza: 03 November 2025
-- **Call for proposal for support to Slovenian and Croatian SCOs to “Go out and vote!” campaigns** — CERV · Scadenza: 01 January 2028
-- **NGI Zero Commons Fund (2026-04Z)** — Horizon Europe · Scadenza: 01 April 2026
-- **Phortify Master Programme Scholarships - Pilot Call** — Digital Europe Programme · Scadenza: 03 April 2026
-- **Phortify Grants for Mentorship workshop on career growth and professional development - Pilot Call** — Digital Europe Programme · Scadenza: 31 May 2026
-- **ROB4GREEN Open Call #1** — Horizon Europe · Scadenza: 08 April 2026
-- **COP-PILOT Open Call 1** — Horizon Europe · Scadenza: 04 May 2026
-- **InnoMatch project - Open call 2 for EIC Awardees** — Horizon Europe · Scadenza: 17 April 2026
-- **Call for CSOs initiatives “Code Success” Fund** — CERV · Scadenza: 20 April 2026
-- **Call for proposals 2 in the Stronger Roots program - Matching grant for crowdfunding campaign** — CERV · Scadenza: 20 May 2026
-- **NGI Fediversity open call (2026-04F)** — Horizon Europe · Scadenza: 01 April 2026
-- **Support for the Management of Marine Protected Areas in Gabon** — Scadenza: 30 April 2026
-- **Civil Society, Media, Human Rights and Democracy programmes for Bosnia and Herzegovina 2025-2026** — Scadenza: 20 May 2026
-- **Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&D)** — Scadenza: 04 June 2026
-- **European Cooperation Projects Small Scale** — Creative Europe (CREA) · Scadenza: 05 May 2026
-- **Networks of European Cinemas** — Creative Europe (CREA) · Scadenza: 09 July 2026
-- **Skills and Talent Development** — Creative Europe (CREA) · Scadenza: 16 April 2026
-- **National Cyber Hubs** — Digital Europe Programme · Scadenza: 28 May 2026
-- **Organisation of high-quality master or post-graduate courses in conference interpreting 2026-2027** — 43697167 · Scadenza: 07 May 2026
-- **Supporting excellence, cooperation or research in conference interpreting training 2026-2027** — 43697167 · Scadenza: 07 May 2026
-- **Organisation of high-quality master, post-graduate or bachelor courses offering conference interpreter training in Ukrainian, Montenegrin, and Albanian (2026-2027)** — 43697167 · Scadenza: 07 May 2026
-- **Centres of Vocational Excellence** — Erasmus+ · Scadenza: 03 September 2026
-- **Circular innovative advanced materials: facilitating the transition from design to markets (RIA) (Innovative Advanced Materials for the EU and Made in Europe partnerships)** — Horizon Europe · Scadenza: 21 April 2026
-- **Monitoring of secondary raw materials (CSA)** — Horizon Europe · Scadenza: 21 April 2026
-- **Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA)** — Horizon Europe · Scadenza: 21 April 2026
-- **Standards for Quantum Technologies – Coordination and Support Action (CSA)** — Scadenza: 15 April 2026
-- **Apply AI: Next-Generation Agile and Intelligent Robotics Platforms for Industrial and Service Applications (Partnership in AI, Data and Robotics) (RIA)** — Horizon Europe · Scadenza: 15 April 2026
-- **New or enhanced Innovative Advanced Materials (IAM) enabled sensing functionality (RIA)** — Horizon Europe · Scadenza: 15 April 2026
-- **EIC 2026 Pathfinder Open** — Horizon Europe · Scadenza: 12 May 2026
-- **Public procurement of innovative solutions for improving citizens' access to healthcare through integrated or personalised approaches** — Horizon Europe · Scadenza: 16 April 2026
-- **Identifying and addressing low-value care in health and care systems** — Horizon Europe · Scadenza: 16 April 2026
-- **Towards a better understanding and anticipation of the impacts of climate change on health** — Horizon Europe · Scadenza: 16 April 2026
-- **Regulatory science to support translational development of patient-centred health technologies** — Horizon Europe · Scadenza: 16 April 2026
-- **SNS experimental infrastructure** — Horizon Europe · Scadenza: 29 April 2026
-- **PPPA-2026-Game-Changing Innovation for European Launch Solutions** — PPPA · Scadenza: 29 April 2026
-- **RFCS-2026-Steel-Big Tickets under the Steel and Metals Action Plan** — RFCS · Scadenza: 06 May 2026
-- **Supporting sustainable competitiveness of tourism SME** — Single Market Programme (SMP) · Scadenza: 20 May 2026
+- **ReAction – Rapid Response Grants** — CERV · Scadenza: 31 March 2028
+- **Cyber Resilience Boost: Supporting capacity building for cyber resilience of products II.** — Digital Europe Programme · Scadenza: 02 April 2026
+- **Second Call for Pilots Work Strand 1 - Connecting Existing Local Digital Twins** — Digital Europe Programme · Scadenza: 02 April 2026
+- **Second Call for Pilots Work Strand 2 - LDTs Based on Common Needs** — Digital Europe Programme · Scadenza: 02 April 2026
+- **Second Call for Pilots Work Strand 3 - New Advanced AI-Based Tools to the LDTs Toolbox** — Digital Europe Programme · Scadenza: 02 April 2026
+- **RTU MERIT Project Mobility Scholarship 2026 Spring** — Digital Europe Programme · Scadenza: 11 April 2026
+- **Stream II (Accelerator) – second call** — CERV · Scadenza: 02 April 2026
+- **MANUFACTergy FACTORY CHECK-IN - Open Call** — Single Market Programme (SMP) · Scadenza: 17 April 2026
+- **Phortify Grants for the Be Part of Phortify program directed to women - Pilot Call** — Digital Europe Programme · Scadenza: 19 May 2026
+- **FuseNet Support of Master Students in attending Educational Events** — Euratom · Scadenza: 31 December 2026
+- **FuseNet Support of Master Students going on an internship abroad** — Euratom · Scadenza: 31 December 2026
+- **FuseNet Call for the Organisation of Mini-Workshops in Fusion** — Euratom · Scadenza: 31 December 2026
+- **Open Call for Financial Support to Third parties as a mechanism to test, promote, validate, replicate PRIMARY business model blueprints and develop new value chains** — Horizon Europe · Scadenza: 08 June 2026
+- **Call for Financial Support for SMEs under DETOUR project** — Single Market Programme (SMP) · Scadenza: 01 June 2026
+- **PERIFORMANCE OPEN CALL FOR BOTTOM-UP STAKEHOLDER ENGAGEMENT INITIATIVES IN CANCER RESEARCH & CARE** — Horizon Europe · Scadenza: 31 May 2026
+- **Ignite NEB Open call for hosts** — Horizon Europe · Scadenza: 07 May 2026
+- **Blue Economy and Green Sustainability** — Scadenza: 07 April 2026
+- **Thematic Programme on Human Rights and Democracy Montenegro 2025** — Scadenza: 08 May 2026
+- **Appui à une société civile congolaise forte et inclusive pour la gouvernance démocratique, la redevabilité et le développement durable** — Scadenza: 20 April 2026
+- **Support to Civil Society in Kazakhstan** — Scadenza: 12 May 2026
+- **Prévention contre les violences basée sur le genre (VBG) et autonomisation économique des femmes** — Scadenza: 23 April 2026
+- **Submarine Cable Repair Capacities – Pilot Works** — Connecting Europe Facility (CEF) · Scadenza: 06 May 2026
+- **European Cooperation Projects Medium Scale** — Creative Europe (CREA) · Scadenza: 05 May 2026
+- **Cross-Border Cyber Hubs** — Digital Europe Programme · Scadenza: 28 May 2026
+- **High-end endo-atmospheric interception** — European Defence Fund · Scadenza: 29 September 2026
+- **New turbofan engine** — European Defence Fund · Scadenza: 29 September 2026
+- **Layered critical seabed infrastructure protection** — European Defence Fund · Scadenza: 29 September 2026
+- **Innovative technologies and tools for exploration and data modelling of raw materials (RIA)** — Horizon Europe · Scadenza: 21 April 2026
+- **Open Internet Stack Support for Scale (CSA)** — Horizon Europe · Scadenza: 15 April 2026
+- **European Nuclear Skills Initiative – towards European Nuclear Skills Academy** — Euratom · Scadenza: 15 September 2026
+- **Innovative interventions to prevent the harmful effects of using digital technologies on the mental health of children and young adults** — Horizon Europe · Scadenza: 16 April 2026
+- **Advancing research on the prevention, diagnosis, and management of post-infection long-term conditions** — Horizon Europe · Scadenza: 16 April 2026
+- **Sustainable hydrogen production from renewable gases and biogenic waste sources through innovative modular reactor design, process intensification and integration** — Horizon Europe · Scadenza: 15 April 2026
+- **Large-scale Hydrogen Valley** — Horizon Europe · Scadenza: 15 April 2026
+- **EU-India International Collaboration** — Horizon Europe · Scadenza: 29 April 2026
+- **Setting up of Cross-Border Coordination Points** — PPPA · Scadenza: 09 June 2026
+- **Chips Diplomacy Support Initiative** — PPPA · Scadenza: 30 April 2026
+- **RFCS-2026-Big Tickets-Coal** — RFCS · Scadenza: 06 May 2026
+- **RFCS-2026-Steel-Big Tickets under the Clean Industrial Deal** — RFCS · Scadenza: 06 May 2026
+- **Erasmus for Young Entrepreneurs** — Single Market Programme (SMP) · Scadenza: 21 April 2026
 
 ## Distribuzione per area tematica (nuovo dataset)
 
 | Area tematica | Call |
 |---|---|
 | Climate, Energy & Mobility | 172 |
-| Digital, Industry & Space | 153 |
+| Digital, Industry & Space | 151 |
 | Food, Bioeconomy & Environment | 141 |
-| Culture, Creativity & Inclusion | 107 |
-| Cross-cutting / Other | 101 |
+| Culture, Creativity & Inclusion | 109 |
+| Cross-cutting / Other | 103 |
 | Health & Life Sciences | 52 |
-| (non classificato) | 50 |
-| Security & Resilience | 41 |
+| (non classificato) | 45 |
+| Security & Resilience | 42 |
 | Defence | 39 |
 | Climate-neutral & Smart Cities | 29 |
-| SME, Entrepreneurship & Market Uptake | 25 |
+| SME, Entrepreneurship & Market Uptake | 28 |
 | Clean Aviation | 18 |
 | Healthy Oceans, Seas, Coastal & Inland Waters | 10 |
 | External Action & International Cooperation | 4 |
